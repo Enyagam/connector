@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*---------------nav bar------------------*/
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 600;
+    color: lightblue;
+}
+
+
+/*-----------------Header-------------------*/
+#header{
+    width: 100%;
+    height: 100vh;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    padding: 20px;
+}
+.video-container{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+#myVideo {
+    position: absolute;
+    z-index: -1;
+    opacity: 0.78;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+.hero{
+    z-index: 1;
+}
+.headh{
+    margin-top: 130px !important;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.headp{
+    margin-bottom: 30px;
+}
+.btn{
+  border-radius: 30px;
+  padding: 10px 30px;
+}
+
+/*--------operating------------*/
+.operating{
+    background-image: url(img/operating.jfif);
+    background-size: cover;
+    
+}
+.poh1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.opp{
+    color: #fff;
+    margin-bottom: 110px;
+    font-size: 25px;
+}
+
+/*-----------------------How we help--------------------*/
+.this{
+    font-size: 45px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+.card{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.shake{
+   border: red solid 3px;
+   border-radius: 50%;
+   
+}
