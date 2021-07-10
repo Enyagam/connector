@@ -51,7 +51,7 @@
 }
 .btn{
   border-radius: 30px;
-  padding: 10px 30px;
+  padding: 10px 40px;
 }
 
 /*--------operating------------*/
@@ -74,6 +74,10 @@
 }
 
 /*-----------------------How we help--------------------*/
+.help{
+    background-color: rgb(242, 246, 248);
+    padding-bottom: 50px;
+}
 .this{
     font-size: 45px;
     margin-top: 100px;
@@ -81,7 +85,7 @@
     font-weight: 700;
 }
 .card{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .card-content{
     padding-left: 15px;
@@ -109,4 +113,53 @@
 }
 .card-footer{
     padding: 15px;
+}
+
+
+/*------------What makes us different-------------*/
+.different{
+    margin-top: 90px;
+}
+.make{
+    margin: 80px 0;
+}
+.accesh3{
+    font-size: 50px;
+    font-weight: 700;
+    color: blue;
+    margin-top: 70px;
+}
+.accesh6{
+    font-size: 20px;
+}
+.accessable{
+    width: 550px;
+    border-radius: 10px;
+}
+
+/*----------------Companys--------------------*/
+.company{
+    margin-bottom: 50px;
+   
+}
+.com1{
+    font-size: 45px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+.comp{
+    font-size: 20px;
+    margin-bottom: 80px;
+}
+.btn2{
+    margin: 10px auto;
+  padding: 10px 12px;
+  border-radius: 3px;
+}
+/*----------footer-------------*/
+.footer{
+    background-color: lightblue;
+    padding: 20px 0;
 }
