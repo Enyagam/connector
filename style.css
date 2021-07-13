@@ -264,7 +264,7 @@
     margin-top: 20px;
 }
 .teamdid{
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 .teamtop{
     margin: 70px 0;
@@ -276,4 +276,30 @@
 }
 .bii{
     margin: 0 10px;
+}
+
+
+/* <!----------------Interest in voleentering  --> */
+.interest{
+    background-image: url(img/tech.jpg);
+    background-size: cover;
+}
+.intereh1{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.interep{
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-size: 20px;
+    word-spacing:  2px;
+    letter-spacing: 2px;
+}
+
+/*-----------------our partner----------------*/
+.partner{
+    background-color:  rgb(242, 246, 248); ;
 }
