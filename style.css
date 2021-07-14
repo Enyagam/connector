@@ -303,3 +303,73 @@
 .partner{
     background-color:  rgb(242, 246, 248); ;
 }
+
+
+/*--------------------company1-------------------*/
+.company1{
+    background-color: black;
+    padding: 60px 0;
+}
+.com2{
+    font-size: 45px;
+    margin-top:0px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+.comp1{
+    font-size: 20px;
+    margin-bottom: 80px;
+}
+.btn2{
+    margin: 10px auto;
+  padding: 10px 12px;
+  border-radius: 3px;
+}
+
+
+
+/* ============================Pladge========================== */
+/* ============================Pladge========================== */
+/* ============================Pladge========================== */
+/* ============================Pladge========================== */
+
+
+/* <!-------------------Pledge------------------> */
+.pledgeh{
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.pledgep{
+    word-spacing:  2px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    font-size: medium;
+}
+.pledgeh1{
+    font-size: 35px;
+    font-weight: 700;
+}
+.lii{
+    margin-left: 30px;
+}
+.linkk{
+    text-decoration: none;
+}
+
+/* ========================learn how to code====================== */
+/* ========================learn how to code====================== */
+/* ========================learn how to code====================== */
+/* ========================learn how to code====================== */
+
+.learnhh{
+    font-size:100;
+    margin-top: 70px;
+}
+.learn-abt{
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
