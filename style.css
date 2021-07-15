@@ -214,7 +214,7 @@
 .headh-abt{
     margin-top: 60px !important;
     margin-bottom: 20px;
-    font-size: 50px;
+    font-size: 70px;
     font-weight: 600;
 }
 .headp{
@@ -366,10 +366,82 @@
 .learnhh{
     font-size:100;
     margin-top: 70px;
+    font-weight: 900;
 }
-.learn-abt{
-    margin-bottom: 20px;
-    font-size: 50px;
-    font-weight: 600;
+.offer{
+    font-size: 40px;
+    font-weight: 700;
+    font-style: oblique;
+    margin-top: 40px;
 }
 
+
+
+
+/* =====================what we offer on learn how to code================================= */
+/* =====================what we offer on learn how to code================================= */
+/* =====================what we offer on learn how to code================================= */
+/* =====================what we offer on learn how to code================================= */
+/* =====================what we offer on learn how to code================================= */
+
+.freeh{
+    font-size: 30px;
+    font-weight: 800;
+    color: blue;
+    margin-top: 10px;
+}
+.freep{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+/* ======================community=========================== */
+/* ======================community=========================== */
+/* ======================community=========================== */
+/* ======================community=========================== */
+.community{
+    background-color: rgb(147, 147, 245);
+  padding: 90px;
+}
+.conm{
+    margin-top: 20px;
+    margin-bottom: 90px;
+}
+.conmh{
+    font-size: 40px;
+    font-weight: 800;
+}
+.conmh3{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 90px;
+    word-spacing:  2px;
+    letter-spacing: 2px;
+}
+.conmh5{
+    word-spacing:  2px;
+    letter-spacing: 2px;
+    padding-right: 20px;
+}
+.btn2{
+    border-radius: 50px;
+    margin-top: 90px;
+    padding: 20px 60px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.btnjoint{
+    margin-top: 100px;
+}
+
+
+
+
+.loal{
+    margin: 100px 0;
+    font-weight: 800;
+}
+.loall{
+    margin-bottom: 70px;
+}
