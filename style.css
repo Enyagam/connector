@@ -469,3 +469,39 @@
 #local{
     margin: 50px 0;
 }
+
+
+
+
+
+/* =========================Voluntee page======================= */
+/* =========================Voluntee page======================= */
+/* =========================Voluntee page======================= */
+/* =========================Voluntee page======================= */
+.volunteep{
+    margin-top: 0px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+.voluntee{
+    font-size: 50px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: 700;
+}
+
+
+/* ==================what we are needing=================== */
+.needwe {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.meedp{
+    font-size: 40px;
+    font-weight: 800;
+}
+.rounded-circle{
+    border: 1px solid lightblue;
+    margin-bottom: 30px;
+}
