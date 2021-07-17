@@ -400,9 +400,11 @@
 /* ======================community=========================== */
 /* ======================community=========================== */
 /* ======================community=========================== */
-.community{
+.community1{
     background-color: rgb(147, 147, 245);
-  padding: 90px;
+}
+.comunity2{
+    margin: 50px 0;
 }
 .conm{
     margin-top: 20px;
@@ -411,6 +413,7 @@
 .conmh{
     font-size: 40px;
     font-weight: 800;
+    margin-top: 40px;
 }
 .conmh3{
     font-size: 40px;
@@ -422,7 +425,7 @@
 .conmh5{
     word-spacing:  2px;
     letter-spacing: 2px;
-    padding-right: 20px;
+    
 }
 .btn2{
     border-radius: 50px;
@@ -432,16 +435,37 @@
     font-size: 30px;
 }
 .btnjoint{
-    margin-top: 100px;
+    margin-top: 150px;
+    margin-bottom: 90px;
 }
 
 
 
-
+/* ==================our community================== */
+/* ==================our community================== */
+/* ==================our community================== */
+/* ==================our community================== */
 .loal{
     margin: 100px 0;
     font-weight: 800;
 }
 .loall{
     margin-bottom: 70px;
+}
+
+/* ===================local meetup=========== */
+/* ===================local meetup=========== */
+/* ===================local meetup=========== */
+/* ===================local meetup=========== */
+.eventp{
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+.acceshpp{
+    margin-top: 100px;
+    word-spacing:  2px;
+    letter-spacing: 2px;
+}
+#local{
+    margin: 50px 0;
 }
