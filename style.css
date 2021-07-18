@@ -493,6 +493,10 @@
 
 
 /* ==================what we are needing=================== */
+.needing{
+    background-color:rgb(226, 242, 248);
+    padding-bottom: 30px;
+}
 .needwe {
     margin-top: 100px;
     margin-bottom: 50px;
@@ -504,4 +508,12 @@
 .rounded-circle{
     border: 1px solid lightblue;
     margin-bottom: 30px;
+}
+.needp{
+    font-weight: 700;
+}
+
+.where{
+    font-size: 40px;
+    font-weight: 800;
 }
