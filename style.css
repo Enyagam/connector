@@ -214,8 +214,8 @@
 .headh-abt{
     margin-top: 60px !important;
     margin-bottom: 20px;
-    font-size: 70px;
-    font-weight: 600;
+    font-size: 50px;
+    font-weight: 700;
 }
 .headp{
     margin-bottom: 30px;
@@ -284,16 +284,21 @@
     background-image: url(img/tech.jpg);
     background-size: cover;
 }
+.interestc{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
 .intereh1{
     color: #fff;
     font-size: 40px;
     font-weight: 600;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+    margin-top: 30px;
 }
 .interep{
     color: #fff;
-    margin-top: 50px;
-    margin-bottom: 80px;
+    margin-top: 30px;
+  padding-bottom: 40px;
     font-size: 20px;
     word-spacing:  2px;
     letter-spacing: 2px;
@@ -516,4 +521,93 @@
 .where{
     font-size: 40px;
     font-weight: 800;
+}
+
+
+
+/* ======================bottom line============================ */
+/* ======================bottom line============================ */
+/* ======================bottom line============================ */
+/* ======================bottom line============================ */
+/* ======================bottom line============================ */
+.bottom{
+    background-image: url(img/photo-1573164574511-73c773193279.jfif);
+    background-repeat:repeat;
+    background-size: cover;
+    width: auto;
+    margin-top: 100px;
+}
+.bottomh{
+    margin-top: 90px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+.bottomp{
+    margin-top: 40px;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 90px;
+}
+
+
+
+/* ============sponser========== */
+/* ============sponser========== */
+/* ============sponser========== */
+.are{
+    background-color:rgb(226, 242, 248);
+}
+.are1{
+    padding: 40px 0;
+}
+
+.spoon{
+    font-weight: 700;
+    font-size: 30px;
+    color: blue;
+}
+.spoonh{
+    color: blue;
+}
+.spoonhead{
+    margin: 50px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.spooni{
+    width: 600px;
+   
+    border-radius: 10px;
+}
+
+/* Who we're looking to partner with
+Non-profits */
+
+.looking{
+    background-image: url(img/photo-1522071820081-009f0129c71c.jfif);
+    background-size: cover;
+}
+.lookhi1{
+    margin-top: 110px;
+    margin-bottom: 50px;
+    font-size: 45px;
+    color: #fff;
+}
+.lookhh3 h3{
+    color: #fff;
+}
+.lookhh3{
+    margin-bottom: 100px;
+}
+
+/* ==================set of sponsors================== */
+.setspoon{
+    margin-top: 120px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+.setsp{
+    padding-bottom: 60px;
 }
